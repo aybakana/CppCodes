@@ -1,3 +1,9 @@
+/*
+A function for base(Animal) class works for derived classes and since it calls by reference, it runs virtual functions.
+OUTPUT:
+Fred says Meow
+Garbo says Woof
+*/
 #include <string>
 class Animal
 {
